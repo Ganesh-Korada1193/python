@@ -4,27 +4,23 @@ Python tutorial from basic to advanced
 
 ## Python Basics
 
+- Installing Python
 
 
 
-
-Installing Python
-
-
-
-Writing the first Python program
+- Writing the first Python program
 
 
 
-Understanding comments
+- Understanding comments
 
 
 
-Working with variables, keywords, and operators
+- Working with variables, keywords, and operators
 
 
 
-Python Functions
+## Python Functions
 
 
 
