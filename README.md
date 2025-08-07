@@ -26,47 +26,48 @@ Python tutorial from basic to advanced
 
 
 
-Syntax and parameter handling
+- Syntax and parameter handling
 
 
 
-Return values and variable scope
+- Return values and variable scope
 
 
 
-Advanced techniques like closures and decorators
+- Advanced techniques like closures and decorators
 
 
 
-Versatile functions: range(), map(), filter, and lambda functions
+- Versatile functions: range(), map(), filter, and lambda functions
 
 
 
-Python Data Structures
-
-
-
-
-
-Lists, strings, tuples, sets, dictionaries, and arrays
-
-
-
-Collections module data structures
-
-
-
-Detailed learning through the DSA with Python Tutorial
-
-
-
-Python OOPs Concepts
+## Python Data Structures
 
 
 
 
 
-Core principles: encapsulation, inheritance, polymorphism, abstract classes, and iterators
+- Lists, strings, tuples, sets, dictionaries, and arrays
+
+
+
+- Collections module data structures
+
+
+
+- Detailed learning through the DSA with Python Tutorial
+
+
+
+## Python OOPs Concepts
+
+
+- encapsulation 
+- inheritance 
+- polymorphism 
+- abstract classes
+- iterators
 
 
 
