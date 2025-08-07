@@ -38,7 +38,7 @@ Python tutorial from basic to advanced
 - else
 - finally
 
-# 6. File handling 
+## 6. File handling 
 
 - Reading files
 - writing to files
