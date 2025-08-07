@@ -2,32 +2,27 @@
 
 Python tutorial from basic to advanced
 
-## Python Basics
+## 1. Python Basics
 
 - Installing Python
 - Writing the first Python program
 - Understanding comments
 - Working with variables, keywords, and operators
 
-
-## Python Functions
-
+## 2. Python Functions
 
 - Syntax and parameter handling
 - Return values and variable scope
 - Advanced techniques like closures and decorators
 - Versatile functions: range(), map(), filter, and lambda functions
 
-## Python Data Structures
-
+## 3. Python Data Structures
 
 - Lists, strings, tuples, sets, dictionaries, and arrays
 - Collections module data structures
 - Detailed learning through the DSA with Python Tutorial
 
-
-## Python OOPs Concepts
-
+## 4. Python OOPs Concepts
 
 - encapsulation 
 - inheritance 
@@ -36,19 +31,14 @@ Python tutorial from basic to advanced
 - iterators
 - Building modular, reusable, and scalable code
 
-
-
-## Python Exception Handling
-
+## 5. Python Exception Handling
 
 - Try
 - except
 - else
 - finally
 
-
-
-# File handling 
+# 6. File handling 
 
 - Reading files
 - writing to files
