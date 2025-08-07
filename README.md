@@ -1,5 +1,8 @@
 # python
-Python Basics
+
+Python tutorial from basic to advanced
+
+## Python Basics
 
 
 
